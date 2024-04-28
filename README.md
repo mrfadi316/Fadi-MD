@@ -19,7 +19,7 @@
   <a href="https://wa.me/+923160908140?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Fadi-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Fadi_Md is free to use" href="https://github.com/fuwadthehacker/Fadi-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Fadi_Md is free to use" href="https://github.com/mrfadi316/Fadi-Md/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Fadi_Md is free to use" href="https://youtube.com/@mrfadi316" target="_blank">
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/fuwadthehacker/Fadi-Md"><b>Fadi-Md</b></a> Support Deploy On...
+  <a href="https://github.com/mrfadi316/Fadi-Md"><b>Fadi-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -89,10 +89,10 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://Fadi-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/fuwadthehacker/Fadi-Md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/mrfadi316/Fadi-Md/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FFadiTechIMd%2FFadi-Md&org)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmrfadi316%2FFadi-Md&org)***
 7.  ***Deploy on [`Replit`](https://replit.com/github/fuwadthehacker/Fadi-Md)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fuwadthehacker/Fadi-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923160908140&env[MONGODB_URI]&&env[OWNER_NAME]=Fadi&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fadi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=Fadi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=Fadi-md&env[KOYEB_NAME]=Fadi-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
